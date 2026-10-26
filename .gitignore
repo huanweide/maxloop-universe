@@ -1,0 +1,8 @@
+# 本仓库是架构/概念收敛点，不含构建产物
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+GH_OPTIMIZER_STATE.json
+OPTIMIZER_LOG.md
