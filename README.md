@@ -1,3 +1,5 @@
+**English** · [README_EN.md](./README_EN.md)
+
 # MaxLoop 质量宇宙 · 融合大架构
 
 > 把 40 个散仓收敛成 **「1 内核 + 4 融合旗舰 + 保留锚点 + 红海丢弃」**。
