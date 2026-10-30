@@ -1,11 +1,11 @@
-# maxloop 质量宇宙 · 融合大架构
+# MaxLoop 质量宇宙 · 融合大架构
 
 > 把 40 个散仓收敛成 **「1 内核 + 4 融合旗舰 + 保留锚点 + 红海丢弃」**。
 > 每个零 star 项目都有明确归宿，而不是各自 0★ 漂着。
 
 ## 一句话
 
-**maxloop-overlord**（防假绿迭代内核）是质量宇宙的唯一内核；其余项目按「能否复用 maxloop 刹车」分进 4 条融合旗舰，或作为保留锚点，红海工具直接丢弃。
+**MaxLoop 方法论（maxloop-overlord 仓库）**（防假绿迭代内核）是质量宇宙的唯一内核；其余项目按「能否复用 MaxLoop 收敛刹车」分进 4 条融合旗舰，或作为保留锚点，红海工具直接丢弃。
 
 ## 架构总览
 
@@ -31,12 +31,12 @@
 |---|---|---|---|
 | **codehealth-loop** | ✅ 已建成 | doctors 12 轴（已熔 8+sec/cyc/dup+enghealth）+ advverify/forge-safeguard 接口 | 代码健康自愈闭环 |
 | **bili-ops** | 🔜 定义→熔 | 锚 `bili-subtitle-universal`（12k LOC）+ `bili-subtitle-extractor`（CLI 孪生，折叠进 cli 模块）+ `bilibili-comment-engine`（私有运营） | B站字幕/运营统一工具箱 |
-| **content-forge** | 🔜 定义 | `video-brief` + `prompt-refiner` + `book-dissector` + `tech-news-hub`，统一跑 maxloop「内容质量门禁」 | 内容/教学质量闭环 |
+| **content-forge** | 🔜 定义 | `video-brief` + `prompt-refiner` + `book-dissector` + `tech-news-hub`，统一跑 MaxLoop「内容质量门禁」 | 内容/教学质量闭环 |
 | **study-companion** | 🔜 定义 | 锚 `zhihuishu-helper`（10★）+ `tust-classroom` + `live-subtitle` | 学习/教学助手矩阵 |
 
 ## 保留锚点（CORE，不熔）
 
-- **novel-smith** — 写作旗舰，已内建 maxloop 式自检
+- **novel-smith** — 写作旗舰，已内建 MaxLoop 式自检
 - **zhihuishu-helper** — study-companion 锚点（10★）
 - **bili-subtitle-universal** — bili-ops 锚点（12k LOC）
 
@@ -47,7 +47,7 @@
 ## 为什么这样熔（第一性原理）
 
 1. **散仓各自 0★ 没流量**；熔成 4 个有方法论的产品，每个都能讲清「解决什么 + 护城河」。
-2. **maxloop 是复用杠杆**——一次写好刹车，4 条线共用，避免每个项目重写质量保障。
+2. **MaxLoop 是复用杠杆**——一次写好刹车，4 条线共用，避免每个项目重写质量保障。
 3. **红海工具熔不进任何线**——直接丢弃，不浪费维护精力。
 
 ## 详情
